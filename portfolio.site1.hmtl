@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+            <style>
+                h1 { 
+                    color: #342bd1; 
+                    font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+                    font-size: 28px;
+                    font-weight: bold;
+                    } 
+                        /* #342bd1 is dream blue */
+                        /* TODO:
+                        create looks for h2 and h3
+                        i think i want to use some static image for my background
+                        (christmas lights?)
+                        &  a photo of me that i like 
+                        to serve as my intro... */
+            </style>
+          <title>Mayson's Site!!!!</title>
+    <h1> Let's see what we can get started?... </h1>
+    /* i will want to create a toolbar 4sure -
+    landing page 
+        will have introduction/ artist statement
+    portfolio
+        visual art
+        video editing (???)
+        audio projects
+        photography
+        interests
+        this website
+    experience / interests
+        what am i looking to get up to?
+        design, web design, new media
+    contact
+        email, socials (?), web form
+     */
+</head>
+<body>
+
+</body>
+</html>
